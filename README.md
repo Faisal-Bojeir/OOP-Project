@@ -1,3 +1,3 @@
-#Simple oop Project
+# Simple oop Project
 
-###apply some of the solid principle
+### apply some of the solid principle
